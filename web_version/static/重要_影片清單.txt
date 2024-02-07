@@ -1,0 +1,13 @@
+請直接copy下列mp4檔名
+紅茶/積極
+blacktea_p.mp4
+紅茶/ 消極
+blacktea_n.mp4
+可樂/積極
+cola_p.mp4
+可樂/消極
+cola_n.mp4
+雪碧/積極
+sprite_p.mpa
+雪碧/消極
+sprite_n.mpa
